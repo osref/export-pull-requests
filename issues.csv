@@ -1,0 +1,259 @@
+Repository,Type,#,User,Title,State,Created,Updated,URL
+verygoodsecurity/vault,Issue,2409,mjallday,Secure Debugger Read Capacity Exceeded,open,03/08/18 15:27:49,03/09/18 04:49:13,https://github.com/verygoodsecurity/vault/issues/2409
+verygoodsecurity/vault,Issue,2408,mjallday,Secure Debugger Write Capacity Exceeded,open,03/08/18 15:25:41,03/08/18 15:30:02,https://github.com/verygoodsecurity/vault/issues/2408
+verygoodsecurity/vault,Issue,2379,mjallday,Rule Entries Fire Out of Order,open,02/16/18 18:51:12,02/20/18 05:43:34,https://github.com/verygoodsecurity/vault/issues/2379
+verygoodsecurity/vault,Issue,2348,zdmytriv,Change reverse proxy behaviour on invalid payload,open,02/03/18 03:00:44,05/31/18 13:07:52,https://github.com/verygoodsecurity/vault/issues/2348
+verygoodsecurity/vault,Issue,2346,mjallday,500 On Vault Not Found,open,02/02/18 16:07:19,02/02/18 16:07:19,https://github.com/verygoodsecurity/vault/issues/2346
+verygoodsecurity/vault,Issue,2345,gjyoung1974,SQL DeadLocks,open,02/02/18 15:00:05,02/02/18 17:17:52,https://github.com/verygoodsecurity/vault/issues/2345
+verygoodsecurity/vault,Issue,2303,zdmytriv,SAXParseException: The markup in the document following the root element must be well-formed,open,01/04/18 16:10:06,01/04/18 16:10:06,https://github.com/verygoodsecurity/vault/issues/2303
+verygoodsecurity/vault,Issue,2302,zdmytriv,Backfill values for tokens with empty public_token field,open,01/03/18 12:18:37,01/12/18 07:04:47,https://github.com/verygoodsecurity/vault/issues/2302
+verygoodsecurity/vault,Issue,2300,mjallday,Configure Logging Output for JSON by Default,open,01/02/18 09:30:44,01/02/18 09:30:44,https://github.com/verygoodsecurity/vault/issues/2300
+verygoodsecurity/vault,Issue,2298,igor-dmitriev,Spring test context caching is broken,open,12/29/17 09:50:21,12/29/17 09:52:36,https://github.com/verygoodsecurity/vault/issues/2298
+verygoodsecurity/vault,Issue,2297,igor-dmitriev,Change Service tests to use mock repositories instead of real ones,open,12/29/17 09:37:58,12/29/17 09:37:58,https://github.com/verygoodsecurity/vault/issues/2297
+verygoodsecurity/vault,Issue,2295,max-lobur,Store temp sftp uploads at /var/run/vault-sftp/buffer/,open,12/29/17 00:49:35,12/29/17 00:49:35,https://github.com/verygoodsecurity/vault/issues/2295
+verygoodsecurity/vault,Issue,2293,viacheslav-fomin-main,Requested size 16 is shorter than existing length 17,open,12/27/17 10:27:31,04/23/18 01:07:25,https://github.com/verygoodsecurity/vault/issues/2293
+verygoodsecurity/vault,Issue,2289,k-sever,Return 403 error if retrieved token has is excluded by classifier,open,12/22/17 06:30:25,12/22/17 07:03:04,https://github.com/verygoodsecurity/vault/issues/2289
+verygoodsecurity/vault,Issue,2284,k-sever,Token usage metric log missing,open,12/19/17 14:47:55,12/19/17 14:47:55,https://github.com/verygoodsecurity/vault/issues/2284
+verygoodsecurity/vault,Issue,2283,viacheslav-fomin-main,Could not find tenant preferences error,open,12/19/17 13:43:42,12/20/17 09:53:42,https://github.com/verygoodsecurity/vault/issues/2283
+verygoodsecurity/vault,Issue,2282,zdmytriv,"Missing tenant, user and trace information in logs",open,12/19/17 09:49:38,12/19/17 14:40:15,https://github.com/verygoodsecurity/vault/issues/2282
+verygoodsecurity/vault,Issue,2279,yyunikov,Reduce volatile storage check time to 5 seconds in smoke tests,open,12/18/17 08:41:59,12/18/17 08:41:59,https://github.com/verygoodsecurity/vault/issues/2279
+verygoodsecurity/vault,Issue,2278,yyunikov,Reveal performance issues,open,12/18/17 08:36:09,01/08/18 11:54:46,https://github.com/verygoodsecurity/vault/issues/2278
+verygoodsecurity/vault,Issue,2276,igor-dmitriev,Improve processing performance of huge data,open,12/18/17 07:11:39,03/21/18 14:01:16,https://github.com/verygoodsecurity/vault/issues/2276
+verygoodsecurity/vault,Issue,2273,mjallday,Investigate SFTP Error Message,open,12/17/17 21:15:16,12/17/17 21:15:16,https://github.com/verygoodsecurity/vault/issues/2273
+verygoodsecurity/vault,Issue,2271,k-sever,Logging filter should not mask UUIDs,open,12/15/17 11:29:46,12/15/17 11:29:46,https://github.com/verygoodsecurity/vault/issues/2271
+verygoodsecurity/vault,Issue,2266,k-sever,Add env variables to set creds for tenant provisioner,open,12/13/17 16:01:27,12/27/17 10:54:11,https://github.com/verygoodsecurity/vault/issues/2266
+verygoodsecurity/vault,Issue,2263,yyunikov,Send email when any user is added to organization,open,12/13/17 04:53:40,02/13/18 13:37:15,https://github.com/verygoodsecurity/vault/issues/2263
+verygoodsecurity/vault,Issue,2262,yyunikov,Customize reset password email template for adding new user to the organization,open,12/13/17 04:35:53,02/13/18 13:37:15,https://github.com/verygoodsecurity/vault/issues/2262
+verygoodsecurity/vault,Issue,2257,k-sever,Failed BasicAuth chained proxy requests produce log without tenant/trace context,open,12/12/17 08:42:30,12/12/17 08:42:30,https://github.com/verygoodsecurity/vault/issues/2257
+verygoodsecurity/vault,Issue,2253,zdmytriv,Add support for tags in VOLATILE storage,open,12/11/17 09:01:30,12/11/17 09:01:30,https://github.com/verygoodsecurity/vault/issues/2253
+verygoodsecurity/vault,Issue,2239,yuriyshafranyuk1,Remove production genpop deployment,open,12/06/17 08:41:12,12/06/17 08:41:12,https://github.com/verygoodsecurity/vault/issues/2239
+verygoodsecurity/vault,Issue,2227,zdmytriv,Data Classification,open,12/04/17 07:10:29,12/04/17 07:10:33,https://github.com/verygoodsecurity/vault/issues/2227
+verygoodsecurity/vault,Issue,2221,zdmytriv,BCrypt truncates everything beyond 72 characters,open,11/30/17 17:12:05,02/28/18 11:14:29,https://github.com/verygoodsecurity/vault/issues/2221
+verygoodsecurity/vault,Issue,2205,igor-dmitriev,Implement rule chain route matching for SFTP proxy,open,11/28/17 08:32:25,11/28/17 09:41:14,https://github.com/verygoodsecurity/vault/issues/2205
+verygoodsecurity/vault,Issue,2204,zdmytriv,PathNotFoundException: Expected to find an object with property ['vehicles'],open,11/27/17 16:08:18,02/19/18 11:34:24,https://github.com/verygoodsecurity/vault/issues/2204
+verygoodsecurity/vault,Issue,2201,zdmytriv,SAXParseException: XML document structures must start and end within the same entity.,open,11/26/17 12:10:15,11/26/17 12:10:15,https://github.com/verygoodsecurity/vault/issues/2201
+verygoodsecurity/vault,Issue,2200,yuriyshafranyuk1,Investigate pdfbox error without stacktrace,open,11/24/17 10:37:23,11/24/17 10:38:18,https://github.com/verygoodsecurity/vault/issues/2200
+verygoodsecurity/vault,Issue,2197,nikolay-popov,Forward proxy does not set Proxy-Authorization header for plain HTTP requests routed through dynamic proxy,open,11/24/17 07:17:31,12/08/17 14:34:22,https://github.com/verygoodsecurity/vault/issues/2197
+verygoodsecurity/vault,Issue,2196,zdmytriv,Rollbar: java.net.SocketTimeoutException: Read timed out,open,11/23/17 13:39:13,01/31/18 10:16:58,https://github.com/verygoodsecurity/vault/issues/2196
+verygoodsecurity/vault,Issue,2190,yuriyshafranyuk1,Sftp proxy - no temp file ,open,11/22/17 08:19:04,11/23/17 11:41:46,https://github.com/verygoodsecurity/vault/issues/2190
+verygoodsecurity/vault,Issue,2188,k-sever, java.security.cert.CertificateExpiredException http proxy error,open,11/22/17 07:24:56,11/22/17 07:24:56,https://github.com/verygoodsecurity/vault/issues/2188
+verygoodsecurity/vault,Issue,2187,yuriyshafranyuk1,Input is not in the GZIP format,open,11/22/17 04:51:29,12/25/17 05:25:26,https://github.com/verygoodsecurity/vault/issues/2187
+verygoodsecurity/vault,Issue,2186,akhon,Update Logs and Debugging Running Applications doc,open,11/22/17 00:39:57,11/22/17 00:40:39,https://github.com/verygoodsecurity/vault/issues/2186
+verygoodsecurity/vault,Issue,2177,zdmytriv,Investigate why migration failed for tenants on dev,open,11/20/17 05:30:33,11/20/17 05:30:33,https://github.com/verygoodsecurity/vault/issues/2177
+verygoodsecurity/vault,Issue,2175,mjallday,Missing Log Entries,open,11/17/17 16:42:28,11/23/17 11:02:29,https://github.com/verygoodsecurity/vault/issues/2175
+verygoodsecurity/vault,Issue,2174,mjallday,Client IP Appears Incorrect for Logging,open,11/17/17 13:59:45,12/04/17 08:11:07,https://github.com/verygoodsecurity/vault/issues/2174
+verygoodsecurity/vault,Issue,2169,igor-dmitriev,Permission denied after db migration,open,11/16/17 07:00:11,11/16/17 10:38:30,https://github.com/verygoodsecurity/vault/issues/2169
+verygoodsecurity/vault,Issue,2168,k-sever,Incorrect migrations should fail a build,open,11/16/17 05:37:27,11/16/17 05:37:27,https://github.com/verygoodsecurity/vault/issues/2168
+verygoodsecurity/vault,Issue,2164,akhon,Enhance Deploy Notification Messages,open,11/15/17 13:09:57,11/16/17 00:56:43,https://github.com/verygoodsecurity/vault/issues/2164
+verygoodsecurity/vault,Issue,2163,k-sever,Wrong logging context when auth fails,open,11/15/17 07:03:44,11/15/17 07:08:05,https://github.com/verygoodsecurity/vault/issues/2163
+verygoodsecurity/vault,Issue,2159,mjallday,DecodingException: Unrecognized character,open,11/14/17 16:52:00,11/14/17 16:52:00,https://github.com/verygoodsecurity/vault/issues/2159
+verygoodsecurity/vault,Issue,2158,mjallday,API Exposes Internals,open,11/14/17 16:48:52,11/14/17 16:48:52,https://github.com/verygoodsecurity/vault/issues/2158
+verygoodsecurity/vault,Issue,2155,zdmytriv,"Rollbar: Kinesis error ""Skipping over the following data records""",open,11/14/17 03:55:43,11/14/17 03:55:43,https://github.com/verygoodsecurity/vault/issues/2155
+verygoodsecurity/vault,Issue,2152,zdmytriv,Rollbar: cached plan must not change result type,open,11/13/17 14:44:49,11/13/17 14:44:49,https://github.com/verygoodsecurity/vault/issues/2152
+verygoodsecurity/vault,Issue,2150,zdmytriv,AmazonKinesisException InternalFailure,open,11/13/17 09:47:45,12/18/17 14:00:54,https://github.com/verygoodsecurity/vault/issues/2150
+verygoodsecurity/vault,Issue,2147,yuriyshafranyuk1,Multiple inner clients in Zip client,open,11/13/17 05:01:11,11/13/17 05:01:11,https://github.com/verygoodsecurity/vault/issues/2147
+verygoodsecurity/vault,Issue,2137,yyunikov,Internal API's should be secured with auth mechanism,open,11/08/17 03:52:09,02/13/18 13:37:43,https://github.com/verygoodsecurity/vault/issues/2137
+verygoodsecurity/vault,Issue,2133,k-sever,Prohibit proxying requests to itself,open,11/03/17 08:36:34,11/03/17 14:03:27,https://github.com/verygoodsecurity/vault/issues/2133
+verygoodsecurity/vault,Issue,2123,k-sever,Remove `ptgOverridden` and `publicTokenGenerator` preferences support,open,11/02/17 09:29:22,11/02/17 09:40:42,https://github.com/verygoodsecurity/vault/issues/2123
+verygoodsecurity/vault,Issue,2116,k-sever,JsonPath validation error,open,10/31/17 15:05:49,10/31/17 15:06:27,https://github.com/verygoodsecurity/vault/issues/2116
+verygoodsecurity/vault,Issue,2109,k-sever,Record deployments in NewRelic,open,10/26/17 12:54:33,10/26/17 14:35:01,https://github.com/verygoodsecurity/vault/issues/2109
+verygoodsecurity/vault,Issue,2104,zdmytriv,Rework MultiTenantConnectionProvider to swap schema not datasources per tenant,open,10/25/17 11:04:16,11/13/17 04:26:26,https://github.com/verygoodsecurity/vault/issues/2104
+verygoodsecurity/vault,Issue,2101,viacheslav-fomin-main,Dynamic operation pipeline,open,10/24/17 11:57:53,10/24/17 11:57:53,https://github.com/verygoodsecurity/vault/issues/2101
+verygoodsecurity/vault,Issue,2095,k-sever,PDF redactor metric,open,10/23/17 13:13:11,03/09/18 07:20:51,https://github.com/verygoodsecurity/vault/issues/2095
+verygoodsecurity/vault,Issue,2073,yyunikov,APIs for JWT tokens management per tenant for proxy,open,10/20/17 03:57:27,02/13/18 13:37:42,https://github.com/verygoodsecurity/vault/issues/2073
+verygoodsecurity/vault,Issue,2072,yyunikov,POC for 3rd party apps authentication,open,10/20/17 03:41:55,02/13/18 13:37:41,https://github.com/verygoodsecurity/vault/issues/2072
+verygoodsecurity/vault,Issue,2071,yyunikov,Proxy authentication using JWT tokens,open,10/20/17 03:28:22,02/13/18 13:37:41,https://github.com/verygoodsecurity/vault/issues/2071
+verygoodsecurity/vault,Issue,2050,zdmytriv,Rollbar: Pdf refaction failed,open,10/15/17 13:34:46,11/06/17 09:37:05,https://github.com/verygoodsecurity/vault/issues/2050
+verygoodsecurity/vault,Issue,2048,zdmytriv,"SFTP smoke tests fails with ""FileNotFoundError: [Errno 2] No such file""",open,10/12/17 00:17:54,11/15/17 17:09:35,https://github.com/verygoodsecurity/vault/issues/2048
+verygoodsecurity/vault,Issue,2045,k-sever,ISO 8583 tcp proxy,open,10/11/17 10:20:50,10/12/17 15:14:30,https://github.com/verygoodsecurity/vault/issues/2045
+verygoodsecurity/vault,Issue,2038,akhon,Upgrade rolbar-java version to latest,open,10/07/17 09:43:26,01/10/18 01:06:23,https://github.com/verygoodsecurity/vault/issues/2038
+verygoodsecurity/vault,Issue,2037,mjallday,PDF Client Errors,open,10/07/17 09:16:11,01/25/18 01:57:27,https://github.com/verygoodsecurity/vault/issues/2037
+verygoodsecurity/vault,Issue,2035,mjallday,Prepare to Split Libraries and Services,open,10/07/17 03:36:02,10/07/17 09:18:46,https://github.com/verygoodsecurity/vault/issues/2035
+verygoodsecurity/vault,Issue,2034,mjallday,Split out Genpop Act Mgmt,open,10/07/17 03:33:05,10/07/17 03:33:05,https://github.com/verygoodsecurity/vault/issues/2034
+verygoodsecurity/vault,Issue,2032,mjallday,Evaluate Cache Refreshes,open,10/07/17 03:24:56,07/09/18 18:11:50,https://github.com/verygoodsecurity/vault/issues/2032
+verygoodsecurity/vault,Issue,2025,mjallday,Object Mapper,open,10/06/17 03:46:21,11/13/17 13:48:20,https://github.com/verygoodsecurity/vault/issues/2025
+verygoodsecurity/vault,Issue,2017,yuriyshafranyuk1,Use snake_case for all model in account management,open,10/04/17 07:40:27,10/31/17 08:15:45,https://github.com/verygoodsecurity/vault/issues/2017
+verygoodsecurity/vault,Issue,2012,mjallday,WebSocket Compatibility,open,10/03/17 12:25:54,10/03/17 12:25:54,https://github.com/verygoodsecurity/vault/issues/2012
+verygoodsecurity/vault,Issue,2008,k-sever,Re-tokenize when token format changes,open,10/02/17 11:00:07,10/02/17 11:00:07,https://github.com/verygoodsecurity/vault/issues/2008
+verygoodsecurity/vault,Issue,2004,igor-dmitriev,Import TokenManagerConfig explicitly,open,10/02/17 04:38:40,10/02/17 04:38:40,https://github.com/verygoodsecurity/vault/issues/2004
+verygoodsecurity/vault,Issue,2000,k-sever,PDF redaction config should have pdf-redactor lib version specified,open,09/29/17 11:14:14,11/13/17 13:52:17,https://github.com/verygoodsecurity/vault/issues/2000
+verygoodsecurity/vault,Issue,1998,k-sever,Implement smoke test for PDF redaction,open,09/29/17 05:54:22,11/13/17 13:52:25,https://github.com/verygoodsecurity/vault/issues/1998
+verygoodsecurity/vault,Issue,1992,yyunikov,Add smoke tests for terminator,open,09/27/17 03:47:28,09/27/17 03:51:58,https://github.com/verygoodsecurity/vault/issues/1992
+verygoodsecurity/vault,Issue,1991,mjallday,Prohibit Multiple Reverse Proxies for a Single Vault,open,09/26/17 16:42:15,03/21/18 14:01:14,https://github.com/verygoodsecurity/vault/issues/1991
+verygoodsecurity/vault,Issue,1987,yyunikov,Log client IP from ELB proxy protocol for forward proxy,open,09/26/17 06:38:48,04/16/18 03:40:57,https://github.com/verygoodsecurity/vault/issues/1987
+verygoodsecurity/vault,Issue,1986,max-lobur,Generate heartbeat log record few times per hour (like every 15 mins),open,09/26/17 04:37:11,09/26/17 11:24:48,https://github.com/verygoodsecurity/vault/issues/1986
+verygoodsecurity/vault,Issue,1958,mjallday,Acceptor Threads are Full,open,09/18/17 20:05:19,09/19/17 08:21:16,https://github.com/verygoodsecurity/vault/issues/1958
+verygoodsecurity/vault,Issue,1956,osklyarenko,Token Audit events should be logged at higher level,open,09/18/17 14:01:28,09/18/17 15:35:34,https://github.com/verygoodsecurity/vault/issues/1956
+verygoodsecurity/vault,Issue,1948,mjallday,Use Messages Instead of Models,open,09/17/17 20:09:20,03/21/18 14:01:14,https://github.com/verygoodsecurity/vault/issues/1948
+verygoodsecurity/vault,Issue,1942,yyunikov,Cleanup created tenants after running smoke tests on dev,open,09/14/17 08:59:36,09/14/17 09:00:24,https://github.com/verygoodsecurity/vault/issues/1942
+verygoodsecurity/vault,Issue,1941,yyunikov,Refactor smoke tests,open,09/14/17 08:55:29,09/14/17 09:00:50,https://github.com/verygoodsecurity/vault/issues/1941
+verygoodsecurity/vault,Issue,1931,zdmytriv,Create an API so user can CRUD certificates,open,09/12/17 04:24:18,09/12/17 04:24:18,https://github.com/verygoodsecurity/vault/issues/1931
+verygoodsecurity/vault,Issue,1930,zdmytriv,Create an API so user can CRUD SFTP upstream,open,09/12/17 04:21:37,09/12/17 04:21:37,https://github.com/verygoodsecurity/vault/issues/1930
+verygoodsecurity/vault,Issue,1928,k-sever,Matched requests traffic metric,open,09/11/17 08:10:16,09/12/17 04:32:25,https://github.com/verygoodsecurity/vault/issues/1928
+verygoodsecurity/vault,Issue,1925,osklyarenko,Migrate to Spring Boot 1.4.3,open,09/11/17 04:22:31,09/11/17 04:23:03,https://github.com/verygoodsecurity/vault/issues/1925
+verygoodsecurity/vault,Issue,1922,viacheslav-fomin-main,Extract Transformer and PayloadStorage implementations,open,09/11/17 01:22:45,09/11/17 01:22:45,https://github.com/verygoodsecurity/vault/issues/1922
+verygoodsecurity/vault,Issue,1919,mjallday,Include Rollbar Meta Data,open,09/10/17 09:37:10,11/06/17 18:57:15,https://github.com/verygoodsecurity/vault/issues/1919
+verygoodsecurity/vault,Issue,1918,igor-dmitriev,FindInterceptor does not work for lazy fields,open,09/08/17 09:34:02,09/19/17 15:21:15,https://github.com/verygoodsecurity/vault/issues/1918
+verygoodsecurity/vault,Issue,1913,igor-dmitriev,Get rig of HTTP related code in DefaultProvisioningService,open,09/08/17 01:05:12,09/08/17 01:05:31,https://github.com/verygoodsecurity/vault/issues/1913
+verygoodsecurity/vault,Issue,1903,yyunikov,Enable Sonar dependency check plugin,open,09/07/17 01:46:46,09/07/17 01:53:38,https://github.com/verygoodsecurity/vault/issues/1903
+verygoodsecurity/vault,Issue,1901,mjallday,Remove Support for upstream_url,open,09/06/17 16:16:49,09/06/17 16:31:31,https://github.com/verygoodsecurity/vault/issues/1901
+verygoodsecurity/vault,Issue,1887,igor-dmitriev,Reimplement vault authorization header,open,09/05/17 04:26:17,12/29/17 10:19:37,https://github.com/verygoodsecurity/vault/issues/1887
+verygoodsecurity/vault,Issue,1885,igor-dmitriev,`The adapter operation was aborted` error there are more than 100 log entries ,open,09/04/17 09:43:38,09/04/17 09:43:46,https://github.com/verygoodsecurity/vault/issues/1885
+verygoodsecurity/vault,Issue,1872,akhon,Increase Verbosity Level of Genpop App,open,09/01/17 09:27:51,10/07/17 10:00:38,https://github.com/verygoodsecurity/vault/issues/1872
+verygoodsecurity/vault,Issue,1871,igor-dmitriev,Move TenantHelper to a separate module,open,09/01/17 07:15:57,09/01/17 07:15:57,https://github.com/verygoodsecurity/vault/issues/1871
+verygoodsecurity/vault,Issue,1870,viacheslav-fomin-main,Extract PublicTokenGenerator implementations into the new module,open,09/01/17 05:08:00,09/01/17 05:08:00,https://github.com/verygoodsecurity/vault/issues/1870
+verygoodsecurity/vault,Issue,1866,pgyschuk,TooLongFrameException: Response entity too large thrown for response with size  74372409 bytes,open,09/01/17 02:40:09,09/10/17 09:35:46,https://github.com/verygoodsecurity/vault/issues/1866
+verygoodsecurity/vault,Issue,1859,pgyschuk,IllegalArgumentException thrown when user tries to detokenize request/response with invalid token,open,08/30/17 08:26:23,08/30/17 08:27:29,https://github.com/verygoodsecurity/vault/issues/1859
+verygoodsecurity/vault,Issue,1858,igor-dmitriev,Create common ObjectMapper,open,08/30/17 06:47:03,09/09/17 13:52:52,https://github.com/verygoodsecurity/vault/issues/1858
+verygoodsecurity/vault,Issue,1857,pgyschuk,PatternSyntaxException throws for rules with RegExp transforment and invalid regular expression,open,08/30/17 05:10:52,08/30/17 06:31:26,https://github.com/verygoodsecurity/vault/issues/1857
+verygoodsecurity/vault,Issue,1856,igor-dmitriev,Sorting by Created At for Request Logs,open,08/30/17 04:29:54,08/30/17 09:00:54,https://github.com/verygoodsecurity/vault/issues/1856
+verygoodsecurity/vault,Issue,1855,yuriyshafranyuk1,Handling situation when id not found,open,08/30/17 03:23:24,11/02/17 07:35:26,https://github.com/verygoodsecurity/vault/issues/1855
+verygoodsecurity/vault,Issue,1853,yuriyshafranyuk1,FILE_STORAGE transformer: return original response when file not found,open,08/30/17 03:01:40,11/02/17 07:35:26,https://github.com/verygoodsecurity/vault/issues/1853
+verygoodsecurity/vault,Issue,1852,mjallday,Health Check Short Circuit,open,08/29/17 20:52:46,11/13/17 04:25:36,https://github.com/verygoodsecurity/vault/issues/1852
+verygoodsecurity/vault,Issue,1848,osklyarenko,Upgrade dependency check plugin,open,08/29/17 07:46:44,08/29/17 07:46:44,https://github.com/verygoodsecurity/vault/issues/1848
+verygoodsecurity/vault,Issue,1843,mjallday,Log When Transform Occurs,open,08/28/17 11:20:58,09/06/17 15:51:31,https://github.com/verygoodsecurity/vault/issues/1843
+verygoodsecurity/vault,Issue,1841,yuriyshafranyuk1,Refactor PDF_METADATA_TOKEN related code,open,08/28/17 07:27:31,10/31/17 08:17:32,https://github.com/verygoodsecurity/vault/issues/1841
+verygoodsecurity/vault,Issue,1837,mjallday,Rule Entry Rewrite Metrics,open,08/24/17 19:40:55,09/11/17 11:00:37,https://github.com/verygoodsecurity/vault/issues/1837
+verygoodsecurity/vault,Issue,1836,mjallday,Alert if Host Fails DNS Resolution,open,08/24/17 13:22:03,08/25/17 12:34:05,https://github.com/verygoodsecurity/vault/issues/1836
+verygoodsecurity/vault,Issue,1833,max-lobur,Add smoke test to test mgmt app standalaone,open,08/23/17 15:10:27,08/25/17 12:35:33,https://github.com/verygoodsecurity/vault/issues/1833
+verygoodsecurity/vault,Issue,1823,mjallday,Heap Dump not Generated on OOM,open,08/22/17 12:47:00,11/06/17 18:57:50,https://github.com/verygoodsecurity/vault/issues/1823
+verygoodsecurity/vault,Issue,1815,mjallday,Log to fluentd,open,08/21/17 15:59:43,03/21/18 14:01:13,https://github.com/verygoodsecurity/vault/issues/1815
+verygoodsecurity/vault,Issue,1796,osklyarenko,docker compose local config should log in DEBUG mode,open,08/16/17 15:03:55,03/21/18 14:01:13,https://github.com/verygoodsecurity/vault/issues/1796
+verygoodsecurity/vault,Issue,1790,viacheslav-fomin-main,Refactor chained proxy adapters,open,08/15/17 08:12:02,08/15/17 08:14:35,https://github.com/verygoodsecurity/vault/issues/1790
+verygoodsecurity/vault,Issue,1788,akhon,bad_record_mac error on production,open,08/15/17 07:42:08,09/11/17 04:45:09,https://github.com/verygoodsecurity/vault/issues/1788
+verygoodsecurity/vault,Issue,1785,yyunikov,Investigate CircleCI 2.0 context,open,08/15/17 03:13:17,08/15/17 04:10:24,https://github.com/verygoodsecurity/vault/issues/1785
+verygoodsecurity/vault,Issue,1777,yuriyshafranyuk1,Add support of sftp version up to 6,open,08/10/17 05:14:31,08/25/17 12:57:25,https://github.com/verygoodsecurity/vault/issues/1777
+verygoodsecurity/vault,Issue,1768,mjallday,Rule Chain and Entry Identifiers,open,08/09/17 10:58:00,03/21/18 14:01:13,https://github.com/verygoodsecurity/vault/issues/1768
+verygoodsecurity/vault,Issue,1764,akhon,Dehardcode DynamoDB table name for SecureLogger,open,08/09/17 02:45:49,08/25/17 13:08:40,https://github.com/verygoodsecurity/vault/issues/1764
+verygoodsecurity/vault,Issue,1762,akhon,Standartize Log Filenames,open,08/08/17 09:45:16,11/01/17 01:18:47,https://github.com/verygoodsecurity/vault/issues/1762
+verygoodsecurity/vault,Issue,1744,zdmytriv,Improve sftp logging when destination directory is read-only,open,08/03/17 15:27:56,08/25/17 07:45:21,https://github.com/verygoodsecurity/vault/issues/1744
+verygoodsecurity/vault,Issue,1743,pgyschuk,Improve HttpMessageAdapter.multipart method,open,08/03/17 11:05:45,08/25/17 12:56:40,https://github.com/verygoodsecurity/vault/issues/1743
+verygoodsecurity/vault,Issue,1723,zdmytriv,Improve logging for key rotation,open,08/01/17 07:53:45,11/13/17 04:26:37,https://github.com/verygoodsecurity/vault/issues/1723
+verygoodsecurity/vault,Issue,1713,zdmytriv,Add tags field to accounts and tenants tables in both genpop and vault dbs,open,07/28/17 07:49:02,08/25/17 13:17:01,https://github.com/verygoodsecurity/vault/issues/1713
+verygoodsecurity/vault,Issue,1708,pgyschuk,Implement support of multiple value for http readers,open,07/27/17 16:28:01,08/25/17 12:55:33,https://github.com/verygoodsecurity/vault/issues/1708
+verygoodsecurity/vault,Issue,1706,akhon,Fix DB migration script,open,07/27/17 10:40:22,11/01/17 05:05:41,https://github.com/verygoodsecurity/vault/issues/1706
+verygoodsecurity/vault,Issue,1697,igor-dmitriev,Secure Logger feature flag,open,07/26/17 12:29:01,07/26/17 12:30:16,https://github.com/verygoodsecurity/vault/issues/1697
+verygoodsecurity/vault,Issue,1691,k-sever,Add transformer config validations,open,07/26/17 07:27:26,10/31/17 07:46:36,https://github.com/verygoodsecurity/vault/issues/1691
+verygoodsecurity/vault,Issue,1690,max-lobur,Make smoke tests easier to run against non-active stack,open,07/26/17 06:46:17,07/26/17 06:46:17,https://github.com/verygoodsecurity/vault/issues/1690
+verygoodsecurity/vault,Issue,1689,k-sever,Refactor PDF redactor to close IO streams correctly,open,07/26/17 04:45:38,08/25/17 12:54:41,https://github.com/verygoodsecurity/vault/issues/1689
+verygoodsecurity/vault,Issue,1674,osklyarenko,Whilelist - Content type for JSON API is set incorrectly.,open,07/21/17 14:55:28,07/21/17 14:55:28,https://github.com/verygoodsecurity/vault/issues/1674
+verygoodsecurity/vault,Issue,1661,nikolay-popov,"Get rid of unused RuleChain protocol and port fields, remove the confusion between protocol and transport",open,07/19/17 14:46:58,08/25/17 12:54:08,https://github.com/verygoodsecurity/vault/issues/1661
+verygoodsecurity/vault,Issue,1656,igor-dmitriev,Introduce MockMvc for controllers,open,07/19/17 01:42:44,08/25/17 12:53:39,https://github.com/verygoodsecurity/vault/issues/1656
+verygoodsecurity/vault,Issue,1649,mjallday,Log Customer Errors,open,07/17/17 11:24:27,09/18/17 14:19:20,https://github.com/verygoodsecurity/vault/issues/1649
+verygoodsecurity/vault,Issue,1643,k-sever,Make logger threshold level configurable for FILE_JSON appender,open,07/15/17 04:09:59,08/25/17 12:53:09,https://github.com/verygoodsecurity/vault/issues/1643
+verygoodsecurity/vault,Issue,1630,osklyarenko,Auth0AuthenticationProvider is missing tests,open,07/13/17 14:15:54,02/13/18 13:38:09,https://github.com/verygoodsecurity/vault/issues/1630
+verygoodsecurity/vault,Issue,1626,k-sever,Add migrations to CI,open,07/13/17 05:00:19,07/13/17 05:57:45,https://github.com/verygoodsecurity/vault/issues/1626
+verygoodsecurity/vault,Issue,1615,yuriyshafranyuk1,Improve sftp proxy error handling,open,07/11/17 07:46:13,07/11/17 07:46:13,https://github.com/verygoodsecurity/vault/issues/1615
+verygoodsecurity/vault,Issue,1604,viacheslav-fomin-main,Certificates table contains key stores,open,07/10/17 05:05:29,11/02/17 07:42:37,https://github.com/verygoodsecurity/vault/issues/1604
+verygoodsecurity/vault,Issue,1602,yuriyshafranyuk1,Implement delete tenant endpoint in Vault Mngmt,open,07/10/17 03:59:41,07/27/17 04:22:36,https://github.com/verygoodsecurity/vault/issues/1602
+verygoodsecurity/vault,Issue,1599,zdmytriv,Verify if we can handle request with property that resolves to null value,open,07/08/17 02:30:38,11/13/17 04:25:36,https://github.com/verygoodsecurity/vault/issues/1599
+verygoodsecurity/vault,Issue,1590,k-sever,Evaluate test containers usage for DB-depended tests,open,07/07/17 07:55:39,07/07/17 08:14:33,https://github.com/verygoodsecurity/vault/issues/1590
+verygoodsecurity/vault,Issue,1587,yuriyshafranyuk1,Implement secure logger for sftp proxy,open,07/07/17 05:25:55,07/07/17 11:10:29,https://github.com/verygoodsecurity/vault/issues/1587
+verygoodsecurity/vault,Issue,1586,yuriyshafranyuk1,Configure SFTP via HTTP API,open,07/07/17 05:05:25,08/15/17 02:37:56,https://github.com/verygoodsecurity/vault/issues/1586
+verygoodsecurity/vault,Issue,1585,yuriyshafranyuk1,SFTP Proxy Traffic Metrics,open,07/07/17 04:50:02,08/22/17 14:44:59,https://github.com/verygoodsecurity/vault/issues/1585
+verygoodsecurity/vault,Issue,1583,gjyoung1974,SFTPD updated library - make crypto configurable,open,07/06/17 17:02:46,08/02/17 04:06:27,https://github.com/verygoodsecurity/vault/issues/1583
+verygoodsecurity/vault,Issue,1577,igor-dmitriev,Database pre-provisioning for acceptance tests,open,07/06/17 06:59:35,03/21/18 14:01:12,https://github.com/verygoodsecurity/vault/issues/1577
+verygoodsecurity/vault,Issue,1576,igor-dmitriev,Debugging docker-compose,open,07/06/17 06:42:18,03/21/18 14:01:12,https://github.com/verygoodsecurity/vault/issues/1576
+verygoodsecurity/vault,Issue,1575,igor-dmitriev,Improve deploy script ,open,07/06/17 06:17:36,03/21/18 14:01:12,https://github.com/verygoodsecurity/vault/issues/1575
+verygoodsecurity/vault,Issue,1561,viacheslav-fomin-main,Remove deprecated `Tokenizer`,open,07/04/17 05:10:32,08/25/17 13:00:09,https://github.com/verygoodsecurity/vault/issues/1561
+verygoodsecurity/vault,Issue,1559,viacheslav-fomin-main,Remove sending raw password in case of decryption error,open,07/04/17 04:49:56,11/02/17 07:38:26,https://github.com/verygoodsecurity/vault/issues/1559
+verygoodsecurity/vault,Issue,1557,osklyarenko,Enforce unified code style rules on every build,open,07/01/17 14:26:19,10/11/17 12:59:39,https://github.com/verygoodsecurity/vault/issues/1557
+verygoodsecurity/vault,Issue,1546,k-sever,Docker stage for tagged versions,open,06/29/17 11:04:43,07/07/17 03:55:00,https://github.com/verygoodsecurity/vault/issues/1546
+verygoodsecurity/vault,Issue,1544,igor-dmitriev,Split Luminati Config username,open,06/29/17 03:00:34,08/25/17 13:21:18,https://github.com/verygoodsecurity/vault/issues/1544
+verygoodsecurity/vault,Issue,1512,viacheslav-fomin-main,javax.crypto.AEADBadTagException: Tag mismatch! ,open,06/22/17 03:29:11,11/26/17 06:11:15,https://github.com/verygoodsecurity/vault/issues/1512
+verygoodsecurity/vault,Issue,1506,zdmytriv,Log warn instead of error on proxy when JSONPath or XPath doesn't match payload body,open,06/20/17 08:48:30,11/01/17 08:05:04,https://github.com/verygoodsecurity/vault/issues/1506
+verygoodsecurity/vault,Issue,1502,k-sever,Use preferences api to retrieve preferences by http proxy,open,06/20/17 05:07:12,06/20/17 11:33:06,https://github.com/verygoodsecurity/vault/issues/1502
+verygoodsecurity/vault,Issue,1496,mjallday,Vault Mgmt NPE,open,06/16/17 14:10:34,06/16/17 15:41:48,https://github.com/verygoodsecurity/vault/issues/1496
+verygoodsecurity/vault,Issue,1491,igor-dmitriev,Create more descriptive error responses when rule configuration is invalid,open,06/16/17 09:11:09,06/16/17 09:11:31,https://github.com/verygoodsecurity/vault/issues/1491
+verygoodsecurity/vault,Issue,1484,igor-dmitriev,Change response status form 500 to 400 when tenant not found,open,06/15/17 12:16:34,03/21/18 14:01:11,https://github.com/verygoodsecurity/vault/issues/1484
+verygoodsecurity/vault,Issue,1479,viacheslav-fomin-main,Custom ca certs trust store,open,06/15/17 05:17:41,06/15/17 14:04:43,https://github.com/verygoodsecurity/vault/issues/1479
+verygoodsecurity/vault,Issue,1458,mjallday,Proxy Health Check,open,06/12/17 19:50:27,07/07/17 08:12:50,https://github.com/verygoodsecurity/vault/issues/1458
+verygoodsecurity/vault,Issue,1454,viacheslav-fomin-main,Remove obsolete targets column,open,06/12/17 08:55:23,07/07/17 08:12:50,https://github.com/verygoodsecurity/vault/issues/1454
+verygoodsecurity/vault,Issue,1431,igor-dmitriev,Katharsis Error Handler,open,06/05/17 23:32:51,08/25/17 07:52:03,https://github.com/verygoodsecurity/vault/issues/1431
+verygoodsecurity/vault,Issue,1430,mjallday,Create SFTP Stress Tests for Sandbox and Live,open,06/05/17 17:25:47,11/02/17 08:40:50,https://github.com/verygoodsecurity/vault/issues/1430
+verygoodsecurity/vault,Issue,1428,mjallday,SunCertPathBuilderException: unable to find valid certification path to requested target,open,06/05/17 15:27:41,03/01/18 12:01:00,https://github.com/verygoodsecurity/vault/issues/1428
+verygoodsecurity/vault,Issue,1408,akhon,Maintenance Mode,open,06/01/17 06:15:28,06/15/17 16:15:02,https://github.com/verygoodsecurity/vault/issues/1408
+verygoodsecurity/vault,Issue,1399,zdmytriv,Store kms key used for tokenization in Redis,open,05/31/17 03:35:18,06/14/17 14:39:24,https://github.com/verygoodsecurity/vault/issues/1399
+verygoodsecurity/vault,Issue,1383,zdmytriv,Replace DBCP2 with HikariCP connection pool,open,05/29/17 05:08:01,11/01/17 08:03:19,https://github.com/verygoodsecurity/vault/issues/1383
+verygoodsecurity/vault,Issue,1337,mjallday,Condense ELB,open,05/21/17 09:36:47,06/12/17 08:37:55,https://github.com/verygoodsecurity/vault/issues/1337
+verygoodsecurity/vault,Issue,1317,pgyschuk,Internal proxy error return to User when JSON transformer is configured in rules but payload is not valid json,open,05/18/17 10:02:47,05/21/17 04:21:08,https://github.com/verygoodsecurity/vault/issues/1317
+verygoodsecurity/vault,Issue,1305,zdmytriv,Forbid traffic to upstreams with invalid certificates,open,05/17/17 15:43:34,11/01/17 08:05:31,https://github.com/verygoodsecurity/vault/issues/1305
+verygoodsecurity/vault,Issue,1290,viacheslav-fomin-main,Stale vault-and-proxy-acceptance-tests module,open,05/16/17 12:49:33,11/02/17 07:36:53,https://github.com/verygoodsecurity/vault/issues/1290
+verygoodsecurity/vault,Issue,1281,mjallday,Event Sourcing,open,05/14/17 16:42:06,06/12/17 07:09:55,https://github.com/verygoodsecurity/vault/issues/1281
+verygoodsecurity/vault,Issue,1274,zdmytriv,"Remove content type ""application/com.litle.psp"" from default white list",open,05/10/17 14:16:54,11/01/17 07:57:20,https://github.com/verygoodsecurity/vault/issues/1274
+verygoodsecurity/vault,Issue,1256,osklyarenko,Health checks for the Vault Proxy are broken,open,05/07/17 14:53:14,07/07/17 08:12:50,https://github.com/verygoodsecurity/vault/issues/1256
+verygoodsecurity/vault,Issue,1249,nikolay-popov,javax.net.ssl.SSLHandshakeException: Invalid Padding length: 75,open,05/05/17 15:25:54,11/02/17 08:35:54,https://github.com/verygoodsecurity/vault/issues/1249
+verygoodsecurity/vault,Issue,1241,osklyarenko,InvalidMimeTypeException error in Account Mgmt API,open,05/04/17 02:27:53,06/16/17 16:23:02,https://github.com/verygoodsecurity/vault/issues/1241
+verygoodsecurity/vault,Issue,1238,nikolay-popov,NoSuchElementException at SslRequestChainedProxyAdapter.getChainedProxyAddress,open,05/03/17 11:10:37,07/07/17 08:12:50,https://github.com/verygoodsecurity/vault/issues/1238
+verygoodsecurity/vault,Issue,1236,nikolay-popov,io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused,open,05/03/17 08:44:22,11/02/17 08:34:06,https://github.com/verygoodsecurity/vault/issues/1236
+verygoodsecurity/vault,Issue,1219,k-sever,Update deprecated spring usage,open,04/28/17 07:59:04,04/28/17 15:57:53,https://github.com/verygoodsecurity/vault/issues/1219
+verygoodsecurity/vault,Issue,1214,viacheslav-fomin-main,Separate multi tenant and public services ,open,04/27/17 04:16:03,11/02/17 07:35:26,https://github.com/verygoodsecurity/vault/issues/1214
+verygoodsecurity/vault,Issue,1208,osklyarenko,Develop repository tests,open,04/26/17 03:23:06,07/07/17 08:12:50,https://github.com/verygoodsecurity/vault/issues/1208
+verygoodsecurity/vault,Issue,1207,osklyarenko,Upgrade to Hibernate 5.0,open,04/26/17 03:14:03,07/07/17 08:12:50,https://github.com/verygoodsecurity/vault/issues/1207
+verygoodsecurity/vault,Issue,1205,osklyarenko,org.xml.sax.SAXParseException parsing whitespace prefixed XML,open,04/25/17 14:55:15,01/02/18 09:10:29,https://github.com/verygoodsecurity/vault/issues/1205
+verygoodsecurity/vault,Issue,1202,k-sever,Remove protobuf messages from service layer,open,04/25/17 09:14:37,08/28/17 07:32:15,https://github.com/verygoodsecurity/vault/issues/1202
+verygoodsecurity/vault,Issue,1200,k-sever,Separate integration and unit tests,open,04/25/17 06:19:56,07/19/17 07:25:23,https://github.com/verygoodsecurity/vault/issues/1200
+verygoodsecurity/vault,Issue,1175,pgyschuk,Migrate setting aws regions for clients from default to region parsed from aws key,open,04/19/17 04:32:28,07/07/17 08:12:44,https://github.com/verygoodsecurity/vault/issues/1175
+verygoodsecurity/vault,Issue,1141,igor-dmitriev,Developer Getting Started Guide and Demo Rules for Dev Env pages are not up to date,open,04/12/17 04:31:34,04/12/17 04:38:45,https://github.com/verygoodsecurity/vault/issues/1141
+verygoodsecurity/vault,Issue,1122,igor-dmitriev,Fix CORS for the whole project,open,04/07/17 11:08:26,02/15/18 14:13:26,https://github.com/verygoodsecurity/vault/issues/1122
+verygoodsecurity/vault,Issue,1115,osklyarenko,Evaluate jasminb/jsonapi-converter to replace Katharsis,open,04/07/17 03:59:11,07/07/17 08:12:44,https://github.com/verygoodsecurity/vault/issues/1115
+verygoodsecurity/vault,Issue,1114,pgyschuk,Delete from codebase code which is used in tests only,open,04/07/17 02:44:12,04/07/17 02:49:39,https://github.com/verygoodsecurity/vault/issues/1114
+verygoodsecurity/vault,Issue,1111,k-sever,Move update vault api to grpc,open,04/06/17 12:01:20,07/07/17 08:12:44,https://github.com/verygoodsecurity/vault/issues/1111
+verygoodsecurity/vault,Issue,1096,zdmytriv,Do not allow to set empty name for vault and organization,open,04/05/17 09:37:38,04/05/17 15:00:13,https://github.com/verygoodsecurity/vault/issues/1096
+verygoodsecurity/vault,Issue,1085,osklyarenko,URI error when rewriting request,open,04/04/17 15:22:54,11/13/17 04:25:36,https://github.com/verygoodsecurity/vault/issues/1085
+verygoodsecurity/vault,Issue,1077,pgyschuk,Implement Organization security based on JWT information,open,04/04/17 01:38:21,02/13/18 13:38:09,https://github.com/verygoodsecurity/vault/issues/1077
+verygoodsecurity/vault,Issue,1076,pgyschuk,Implement Auth0 hook to add app_metadata on SignUp,open,04/04/17 01:27:31,02/13/18 13:38:09,https://github.com/verygoodsecurity/vault/issues/1076
+verygoodsecurity/vault,Issue,1047,osklyarenko,Organization user invites MVP,open,03/30/17 04:08:40,02/13/18 13:38:09,https://github.com/verygoodsecurity/vault/issues/1047
+verygoodsecurity/vault,Issue,1044,igor-dmitriev,SAXParseException: Premature end of file,open,03/29/17 12:13:56,02/15/18 15:34:17,https://github.com/verygoodsecurity/vault/issues/1044
+verygoodsecurity/vault,Issue,1033,osklyarenko,Harden access permissions to the HttpLogs DynamoDB table,open,03/27/17 16:59:03,10/31/17 02:47:34,https://github.com/verygoodsecurity/vault/issues/1033
+verygoodsecurity/vault,Issue,1030,osklyarenko,Proper namespacing of the java packages,open,03/27/17 15:38:55,03/27/17 17:06:55,https://github.com/verygoodsecurity/vault/issues/1030
+verygoodsecurity/vault,Issue,1022,k-sever,Make vault-service spring configs conditional,open,03/27/17 06:52:15,07/07/17 08:12:44,https://github.com/verygoodsecurity/vault/issues/1022
+verygoodsecurity/vault,Issue,1020,k-sever,Move UtilMapper to commons,open,03/27/17 06:24:50,03/27/17 08:45:21,https://github.com/verygoodsecurity/vault/issues/1020
+verygoodsecurity/vault,Issue,1009,k-sever,Add support for `Via` header removal,open,03/24/17 15:50:09,03/27/17 10:04:01,https://github.com/verygoodsecurity/vault/issues/1009
+verygoodsecurity/vault,Issue,1006,lazzarello,Using valid but incorrect credentials for a vault URL will reveal tokens,open,03/23/17 15:12:41,02/19/18 08:33:44,https://github.com/verygoodsecurity/vault/issues/1006
+verygoodsecurity/vault,Issue,966,mjallday,Add Email to Account Management User Table,open,03/20/17 10:55:43,03/20/17 10:58:20,https://github.com/verygoodsecurity/vault/issues/966
+verygoodsecurity/vault,Issue,965,k-sever,Epic - API for Vault Delete,open,03/20/17 09:27:08,11/14/17 03:53:52,https://github.com/verygoodsecurity/vault/issues/965
+verygoodsecurity/vault,Issue,954,mjallday,Instrument SFTP with NewRelic Transactions,open,03/17/17 14:07:52,07/17/17 14:40:09,https://github.com/verygoodsecurity/vault/issues/954
+verygoodsecurity/vault,Issue,945,zdmytriv,Consolidate upstreams and certificates tables,open,03/16/17 08:53:16,03/16/17 11:45:05,https://github.com/verygoodsecurity/vault/issues/945
+verygoodsecurity/vault,Issue,941,nikolay-popov,Two-way ssl certificates managing API,open,03/15/17 23:10:07,11/02/17 08:32:51,https://github.com/verygoodsecurity/vault/issues/941
+verygoodsecurity/vault,Issue,935,k-sever,JSON API Gateway for Tenant Preferences API,open,03/15/17 10:41:05,10/31/17 07:37:28,https://github.com/verygoodsecurity/vault/issues/935
+verygoodsecurity/vault,Issue,908,mjallday,Put PagerDuty into Maintenance Mode when Deploying,open,03/12/17 15:59:55,03/21/18 14:01:08,https://github.com/verygoodsecurity/vault/issues/908
+verygoodsecurity/vault,Issue,901,osklyarenko,Explore alternative ways to parsing cookies,open,03/10/17 04:41:43,03/21/18 14:01:08,https://github.com/verygoodsecurity/vault/issues/901
+verygoodsecurity/vault,Issue,890,nikolay-popov,Smoke tests should cover sing-up and tenancy provision,open,03/09/17 04:44:55,07/07/17 08:12:50,https://github.com/verygoodsecurity/vault/issues/890
+verygoodsecurity/vault,Issue,865,viacheslav-fomin-main,Data can be tokenized and detokenized in the same request ,open,03/05/17 03:22:48,07/06/18 05:02:30,https://github.com/verygoodsecurity/vault/issues/865
+verygoodsecurity/vault,Issue,859,zdmytriv,Rule entries are cached,open,03/03/17 12:03:57,06/15/17 16:21:04,https://github.com/verygoodsecurity/vault/issues/859
+verygoodsecurity/vault,Issue,852,mjallday,Change MITM Implementation,open,03/02/17 19:10:47,02/07/18 05:57:19,https://github.com/verygoodsecurity/vault/issues/852
+verygoodsecurity/vault,Issue,851,mjallday,Allow Trace Logging By Tenant,open,03/02/17 18:36:47,03/03/17 09:07:47,https://github.com/verygoodsecurity/vault/issues/851
+verygoodsecurity/vault,Issue,823,zdmytriv,Authentication timeout in: 100000,open,02/27/17 08:53:47,11/01/17 07:47:04,https://github.com/verygoodsecurity/vault/issues/823
+verygoodsecurity/vault,Issue,789,mjallday,Document SSL Certificate Authority,open,02/19/17 21:09:01,11/02/17 09:01:10,https://github.com/verygoodsecurity/vault/issues/789
+verygoodsecurity/vault,Issue,773,mjallday,Add JWT Authentication for Vault,open,02/16/17 22:50:37,02/13/18 13:38:32,https://github.com/verygoodsecurity/vault/issues/773
+verygoodsecurity/vault,Issue,754,nikolay-popov,Forbid proxying to localhost and 10.* addresses.,open,02/13/17 10:26:58,02/20/17 11:46:34,https://github.com/verygoodsecurity/vault/issues/754
+verygoodsecurity/vault,Issue,751,akhon,"ERROR:  duplicate key value violates unique constraint ""rule_entries_chain_id_ordinal_key""",open,02/12/17 22:37:21,08/21/17 16:43:17,https://github.com/verygoodsecurity/vault/issues/751
+verygoodsecurity/vault,Issue,748,akhon,"ERROR: duplicate key value violates unique constraint ""ix_users_auth_vendor_user_id""",open,02/12/17 22:32:38,06/15/17 16:20:34,https://github.com/verygoodsecurity/vault/issues/748
+verygoodsecurity/vault,Issue,711,mjallday,Migrate to Flyway 4.1,open,02/07/17 12:33:22,11/02/17 08:53:34,https://github.com/verygoodsecurity/vault/issues/711
+verygoodsecurity/vault,Issue,696,k-sever,"Refactor DTOs not to extend Forms, use mapping instead",open,02/06/17 07:29:45,03/21/17 11:00:43,https://github.com/verygoodsecurity/vault/issues/696
+verygoodsecurity/vault,Issue,688,igor-dmitriev,NPE in NettyHttpServletRequestAdapter,open,02/03/17 10:46:49,02/05/17 03:13:18,https://github.com/verygoodsecurity/vault/issues/688
+verygoodsecurity/vault,Issue,683,igor-dmitriev,Validate input request to prevent hitting ELB directly,open,02/03/17 09:34:05,02/03/17 10:00:52,https://github.com/verygoodsecurity/vault/issues/683
+verygoodsecurity/vault,Issue,681,mjallday,Ensure we create an allow all route for certain customers,open,02/02/17 20:06:52,06/15/17 16:19:03,https://github.com/verygoodsecurity/vault/issues/681
+verygoodsecurity/vault,Issue,646,mjallday,Volatile Cache is not Tenant Aware,open,01/28/17 11:39:27,01/30/17 04:51:38,https://github.com/verygoodsecurity/vault/issues/646
+verygoodsecurity/vault,Issue,640,zdmytriv,Use application-test.yml for tests,open,01/27/17 09:33:53,11/01/17 05:53:22,https://github.com/verygoodsecurity/vault/issues/640
+verygoodsecurity/vault,Issue,621,igor-dmitriev,Transaction atomicity violation in AccountController.create method,open,01/26/17 05:02:46,01/27/17 07:02:30,https://github.com/verygoodsecurity/vault/issues/621
+verygoodsecurity/vault,Issue,615,zdmytriv,"Use @ManyToMany(mappedBy = """") for bidirectional mapping",open,01/25/17 13:52:23,11/01/17 05:41:10,https://github.com/verygoodsecurity/vault/issues/615
+verygoodsecurity/vault,Issue,608,zdmytriv,Can't run tests twice without cleaning db,open,01/25/17 08:38:46,07/07/17 08:12:50,https://github.com/verygoodsecurity/vault/issues/608
+verygoodsecurity/vault,Issue,607,osklyarenko,Extract VaultClient into its own extension APIs ,open,01/25/17 08:32:10,01/26/17 17:12:46,https://github.com/verygoodsecurity/vault/issues/607
+verygoodsecurity/vault,Issue,598,mjallday,Split VaultClient and Implementations out of VaultService,open,01/24/17 12:31:41,01/25/17 03:26:40,https://github.com/verygoodsecurity/vault/issues/598
+verygoodsecurity/vault,Issue,397,aanari,"Permanently remove ""test_tenancy"" and forbid underscores",open,11/15/16 12:25:55,11/15/16 12:25:55,https://github.com/verygoodsecurity/vault/issues/397
+verygoodsecurity/vault,Issue,395,viacheslav-fomin-main,Fix race condition when public token duplicate is checked,open,11/14/16 00:29:24,11/02/17 07:48:31,https://github.com/verygoodsecurity/vault/issues/395
+verygoodsecurity/vault,Issue,393,mjallday,Hostname not being correctly passed,open,11/13/16 14:25:52,11/03/17 14:29:27,https://github.com/verygoodsecurity/vault/issues/393
+verygoodsecurity/vault,Issue,352,mjallday,Configurable FingerPrinter,open,11/02/16 16:44:19,03/22/17 04:28:12,https://github.com/verygoodsecurity/vault/issues/352
+verygoodsecurity/vault,Issue,346,nikolay-popov,Extended host matching,open,10/31/16 12:32:14,11/02/17 08:30:45,https://github.com/verygoodsecurity/vault/issues/346
+verygoodsecurity/vault,Issue,323,nikolay-popov,SFTP: Client behaviour on server redeploy,open,09/27/16 10:28:06,06/13/17 08:21:08,https://github.com/verygoodsecurity/vault/issues/323
+verygoodsecurity/vault,Issue,303,nikolay-popov,SFTP: VaultClients should process files in streams without reading ,open,09/15/16 10:04:32,06/13/17 08:21:08,https://github.com/verygoodsecurity/vault/issues/303
+verygoodsecurity/vault,Issue,280,mjallday,Invalid HttpProxyRoutingService Upstream Does Not Cause Error,open,09/01/16 11:03:17,06/12/17 07:54:48,https://github.com/verygoodsecurity/vault/issues/280
+verygoodsecurity/vault,Issue,218,mjallday,LEAK: ByteBuf.release() was not called before it's garbage-collected.,open,07/07/16 11:35:47,06/12/17 07:50:57,https://github.com/verygoodsecurity/vault/issues/218
+verygoodsecurity/vault,Issue,175,canbican,http pipelining should be enabled for https connections ,open,06/15/16 08:45:32,03/22/17 04:28:12,https://github.com/verygoodsecurity/vault/issues/175
+verygoodsecurity/vault,Issue,173,canbican,Refactor *ProxyHttpFiltersAdapter.java for more brief clientToProxyRequests ,open,06/14/16 08:01:17,06/24/16 12:54:21,https://github.com/verygoodsecurity/vault/issues/173
+verygoodsecurity/vault,Issue,140,mjallday,Base Management API and Endpoints,open,06/07/16 18:05:00,01/26/17 20:24:35,https://github.com/verygoodsecurity/vault/issues/140
+verygoodsecurity/vault,Issue,124,nikolay-popov,Fix: JDBC connection credentials are duplicated.,open,06/06/16 06:53:08,11/02/17 08:24:47,https://github.com/verygoodsecurity/vault/issues/124
+verygoodsecurity/vault,Issue,99,mahmoudimus,Sanitize cookies on response that set domain=verygoodproxy.com,open,05/13/16 10:52:46,03/22/17 04:28:12,https://github.com/verygoodsecurity/vault/issues/99
+verygoodsecurity/vault,Issue,54,mjallday,Ensure vault-proxy-sftp uses connection pooling,open,01/05/16 12:00:57,11/02/17 08:52:57,https://github.com/verygoodsecurity/vault/issues/54
